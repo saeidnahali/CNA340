@@ -4,3 +4,9 @@ dict1={"Oil change":35,"Tire rotation":19,"Car wash":7,"Car wax":12,"-":"No serv
 
 print("\nSelect first service:")
 
+ser1=input()
+print("Select second service:")
+ser2=input()
+
+print("\nDavy's auto shop invoice\n")
+
