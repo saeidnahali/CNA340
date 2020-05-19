@@ -9,4 +9,11 @@ print("Select second service:")
 ser2=input()
 
 print("\nDavy's auto shop invoice\n")
-
+if ser1!='-' and ser2!='-':
+    print("Service 1: "+ser1+", $"+ str(dict1[ser1]))
+    print("Service 2: "+ser2+", $"+ str(dict1[ser2]))
+    Total=dict1[ser1]+dict1[ser2]
+elif ser1=='-':
+    print("Service 1: "+"No service")
+    print("Service 2: "+ser2+", $"+ str(dict1[ser2]))
+    Total=dict1[ser2]
