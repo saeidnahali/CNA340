@@ -17,3 +17,9 @@ elif ser1=='-':
     print("Service 1: "+"No service")
     print("Service 2: "+ser2+", $"+ str(dict1[ser2]))
     Total=dict1[ser2]
+else:
+    print("Service 1: "+ser1+", $"+ str(dict1[ser1]))
+    print("Service 2: "+"No service")
+    Total=dict1[ser1]
+
+print("\nTotal: $"+str(Total))
