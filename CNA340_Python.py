@@ -7,6 +7,7 @@ ser1=input()
 print("Select second service:")
 ser2=input()
 
+#test
 print("\nDavy's auto shop invoice\n")
 
 if ser1!='-' and ser2!='-':
