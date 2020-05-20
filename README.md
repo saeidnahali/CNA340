@@ -59,13 +59,13 @@ Pycharm V2020.1
 ## Running
 ```
 Once installed you can run the program with the following command:
-5.3 LAB.py
+CNA340_Python.py
 ```
 
 Add any additional ways to run the program below
 
 ```
-5.3 LAB.py Zybook 5.3 LAB.txt
+CNA340_Python.py CNA340_Python.txt
 ```
 ## Thanks
 ```
