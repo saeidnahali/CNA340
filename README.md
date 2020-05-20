@@ -56,6 +56,7 @@ Total: $19
 Pycharm V2020.1
 ```
 
+
 ## Running
 ```
 Once installed you can run the program with the following command:
